@@ -1,10 +1,22 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>CRUD App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
 <body>
-<h2>CRUD App</h2>
-<input id="input">
-<button onclick="addData()">Add</button>
-<ul id="list"></ul>
+
+<div class="container">
+    <h2>📝 Task Manager</h2>
+
+    <div class="input-section">
+        <input id="input" placeholder="Enter task...">
+        <button onclick="addData()">Add</button>
+    </div>
+
+    <ul id="list"></ul>
+</div>
+
 <script src="script.js"></script>
 </body>
 </html>
