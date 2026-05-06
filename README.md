@@ -1,2 +1,9 @@
-# crud-web-app
-🌐 Simple CRUD web app using HTML, CSS, JavaScript
+# 🌐 CRUD Web App
+
+## 🚀 Overview
+Basic CRUD operations using JavaScript.
+
+## ✨ Features
+- Add items
+- Delete items
+- Dynamic UI updates
